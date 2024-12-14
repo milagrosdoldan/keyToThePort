@@ -7,4 +7,4 @@ Features
 * Customizable port ranges.
 * Easy integration into existing workflows.
 
-<3 Thanks for using KeyToThePort! <3 
+Thanks for using KeyToThePort! 
